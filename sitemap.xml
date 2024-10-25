@@ -57,15 +57,19 @@
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
-         <loc>https://web-slate.github.io/java-basics/basics/Operators/arithmetic</loc>
+         <loc>https://web-slate.github.io/java-basics/basics/Operators/arithmetic_examples</loc>
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
-         <loc>https://web-slate.github.io/java-basics/basics/Operators/assignment</loc>
+         <loc>https://web-slate.github.io/java-basics/basics/Operators/assignment_examples</loc>
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
-         <loc>https://web-slate.github.io/java-basics/basics/Operators/comparision</loc>
+         <loc>https://web-slate.github.io/java-basics/basics/Operators/comparision_examples</loc>
+         <lastmod>2024-10-25</lastmod>
+    </url>
+    <url>
+         <loc>https://web-slate.github.io/java-basics/basics/Operators/introduction</loc>
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
@@ -73,15 +77,15 @@
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
-         <loc>https://web-slate.github.io/java-basics/basics/control_flow/else_if</loc>
+         <loc>https://web-slate.github.io/java-basics/basics/control_flow/else_if_examples</loc>
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
-         <loc>https://web-slate.github.io/java-basics/basics/control_flow/if</loc>
+         <loc>https://web-slate.github.io/java-basics/basics/control_flow/if_else_examples</loc>
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
-         <loc>https://web-slate.github.io/java-basics/basics/control_flow/if_else</loc>
+         <loc>https://web-slate.github.io/java-basics/basics/control_flow/if_examples</loc>
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
@@ -89,15 +93,15 @@
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
-         <loc>https://web-slate.github.io/java-basics/basics/control_flow/loop/for</loc>
+         <loc>https://web-slate.github.io/java-basics/basics/control_flow/loop/for_examples</loc>
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
-         <loc>https://web-slate.github.io/java-basics/basics/control_flow/loop/intro</loc>
+         <loc>https://web-slate.github.io/java-basics/basics/control_flow/loop/introduction</loc>
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
-         <loc>https://web-slate.github.io/java-basics/basics/control_flow/loop/while</loc>
+         <loc>https://web-slate.github.io/java-basics/basics/control_flow/loop/while_examples</loc>
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
@@ -125,7 +129,7 @@
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
-         <loc>https://web-slate.github.io/java-basics/basics/recursion/basic_recursion</loc>
+         <loc>https://web-slate.github.io/java-basics/basics/recursion/basic_recursion_examples</loc>
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
@@ -133,39 +137,11 @@
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
-         <loc>https://web-slate.github.io/java-basics/basics/statements/conditional</loc>
-         <lastmod>2024-10-25</lastmod>
-    </url>
-    <url>
-         <loc>https://web-slate.github.io/java-basics/basics/statements/conditional/elseif_example</loc>
-         <lastmod>2024-10-25</lastmod>
-    </url>
-    <url>
-         <loc>https://web-slate.github.io/java-basics/basics/statements/conditional/if_example</loc>
-         <lastmod>2024-10-25</lastmod>
-    </url>
-    <url>
-         <loc>https://web-slate.github.io/java-basics/basics/statements/conditional/ifelse_example</loc>
-         <lastmod>2024-10-25</lastmod>
-    </url>
-    <url>
-         <loc>https://web-slate.github.io/java-basics/basics/statements/loop</loc>
-         <lastmod>2024-10-25</lastmod>
-    </url>
-    <url>
-         <loc>https://web-slate.github.io/java-basics/basics/statements/loop/for_examples</loc>
-         <lastmod>2024-10-25</lastmod>
-    </url>
-    <url>
-         <loc>https://web-slate.github.io/java-basics/basics/statements/loop/while_examples</loc>
-         <lastmod>2024-10-25</lastmod>
-    </url>
-    <url>
          <loc>https://web-slate.github.io/java-basics/basics/variables</loc>
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
-         <loc>https://web-slate.github.io/java-basics/basics/variables/basic_variables</loc>
+         <loc>https://web-slate.github.io/java-basics/basics/variables/basic_variables_examples</loc>
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
@@ -221,11 +197,11 @@
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
-         <loc>https://web-slate.github.io/java-basics/data_types/basic_data_type</loc>
+         <loc>https://web-slate.github.io/java-basics/data_types/basic_data_type_examples</loc>
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
-         <loc>https://web-slate.github.io/java-basics/data_types/data_types</loc>
+         <loc>https://web-slate.github.io/java-basics/data_types/data_types_examples</loc>
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
@@ -237,7 +213,7 @@
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
-         <loc>https://web-slate.github.io/java-basics/data_types/String/strings</loc>
+         <loc>https://web-slate.github.io/java-basics/data_types/String/strings_examples</loc>
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
@@ -245,7 +221,7 @@
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
-         <loc>https://web-slate.github.io/java-basics/data_types/math/math</loc>
+         <loc>https://web-slate.github.io/java-basics/data_types/math/math_examples</loc>
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
@@ -253,11 +229,11 @@
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
-         <loc>https://web-slate.github.io/java-basics/data_types/primitive_data_type/float_types</loc>
+         <loc>https://web-slate.github.io/java-basics/data_types/primitive_data_type/float_types_examples</loc>
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
-         <loc>https://web-slate.github.io/java-basics/data_types/primitive_data_type/integer_types</loc>
+         <loc>https://web-slate.github.io/java-basics/data_types/primitive_data_type/integer_types_examples</loc>
          <lastmod>2024-10-25</lastmod>
     </url>
     <url>
