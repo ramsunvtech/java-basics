@@ -3751,6 +3751,57 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#680-valid-palindrome-ii-easy-two-pointers" class="md-nav__link">
+    <span class="md-ellipsis">
+      680. Valid Palindrome II (easy) - Two Pointers
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="680. Valid Palindrome II (easy) - Two Pointers">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#rough-approach-quick-solution" class="md-nav__link">
+    <span class="md-ellipsis">
+      Rough Approach: Quick Solution
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#approach-1-brute-force" class="md-nav__link">
+    <span class="md-ellipsis">
+      Approach 1: Brute Force
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#approach-2-sub-optimal-solution-uses-uses-recursion" class="md-nav__link">
+    <span class="md-ellipsis">
+      Approach 2: Sub Optimal solution uses Uses recursion.
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#approach-3-optimized-solution-using-two-pointers-with-optimized" class="md-nav__link">
+    <span class="md-ellipsis">
+      Approach 3: Optimized Solution using Two pointers with optimized
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -4263,6 +4314,57 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#680-valid-palindrome-ii-easy-two-pointers" class="md-nav__link">
+    <span class="md-ellipsis">
+      680. Valid Palindrome II (easy) - Two Pointers
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="680. Valid Palindrome II (easy) - Two Pointers">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#rough-approach-quick-solution" class="md-nav__link">
+    <span class="md-ellipsis">
+      Rough Approach: Quick Solution
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#approach-1-brute-force" class="md-nav__link">
+    <span class="md-ellipsis">
+      Approach 1: Brute Force
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#approach-2-sub-optimal-solution-uses-uses-recursion" class="md-nav__link">
+    <span class="md-ellipsis">
+      Approach 2: Sub Optimal solution uses Uses recursion.
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#approach-3-optimized-solution-using-two-pointers-with-optimized" class="md-nav__link">
+    <span class="md-ellipsis">
+      Approach 3: Optimized Solution using Two pointers with optimized
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -4630,7 +4732,7 @@
 </code></pre></div></td></tr></table></div></p>
 </blockquote>
 <h2 id="problem-description">Problem Description</h2>
-<p>## 680. Valid Palindrome II (easy) - Two Pointers</p>
+<h2 id="680-valid-palindrome-ii-easy-two-pointers">680. Valid Palindrome II (easy) - Two Pointers</h2>
 <p>Given a string s, return true if the s can be palindrome after deleting at
  most one character from it.</p>
 <p><strong>Example 1</strong>:
@@ -4646,8 +4748,8 @@
 <p>Constraints:</p>
 <p>1 &lt;= s.length &lt;= 105
  s consists of lowercase English letters.</p>
-<p>### Rough Approach: Quick Solution
- <strong>Approach</strong>: This uses uses a two-pointer technique to check for mismatches
+<h3 id="rough-approach-quick-solution">Rough Approach: Quick Solution</h3>
+<p><strong>Approach</strong>: This uses uses a two-pointer technique to check for mismatches
  while traversing from both ends of the string towards the center.
  If a mismatch occurs, it checks if either of the substrings (after removing
  one character) can form a palindrome.</p>
@@ -4659,8 +4761,8 @@
  iterates from both ends.
 💾 Space Complexity is constant O(1)), no additional space is used.</p>
 </blockquote>
-<p>### Approach 1: Brute Force
- **In this approach, we'll try removing each character one by one and checking
+<h3 id="approach-1-brute-force">Approach 1: Brute Force</h3>
+<p>**In this approach, we'll try removing each character one by one and checking
  if the resulting string is a palindrome.</p>
 <blockquote>
 <p>🕒 Time Complexity is Quadratic O(n2), as we potentially check 𝑛 n
@@ -4671,8 +4773,8 @@
  making it inefficient for larger strings but straightforward.</p>
 <p>Runtime: 14ms Beats 31.25%
  Memory: 44.92 MB and Beats 25.15%</p>
-<p>### Approach 2: Sub Optimal solution uses Uses recursion.
- <strong>In this approach</strong>: This solution uses a single check with two pointers,
+<h3 id="approach-2-sub-optimal-solution-uses-uses-recursion">Approach 2: Sub Optimal solution uses Uses recursion.</h3>
+<p><strong>In this approach</strong>: This solution uses a single check with two pointers,
  attempting to only make the minimum number of recursive calls.</p>
 <ol>
 <li><strong>Why Sub-Optimal</strong>?: Uses stack space and multiple string operations.</li>
@@ -4686,8 +4788,8 @@
  and faster than brute force.</p>
 <p>Runtime: 5ms Beats 42.65%
  Memory: 50.09 MB and Beats 5.93%</p>
-<p>### Approach 3: Optimized Solution using Two pointers with optimized
- validation
+<h3 id="approach-3-optimized-solution-using-two-pointers-with-optimized">Approach 3: Optimized Solution using Two pointers with optimized</h3>
+<p>validation
  <strong>Technique</strong>: Two-pointer technique with early termination.
  <strong>Improvements</strong>: No string manipulation, Minimal checks, Early termination,
  Minimizes the number of comparisons.</p>
